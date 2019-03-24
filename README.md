@@ -1,4 +1,4 @@
 # Sentiment-analysis-using-scikit-learn-and-NLTK-for-Yelp-review-classification
-Sentiment Analysis and Text classification on 10,000 Yelp Reviews using NLTK and Scikit learn(Naïve Bayes,Logistic Regression).
+Sentiment Analysis and Text classification on 10,000 Yelp Reviews using NLTK and Scikit learn(Naïve Bayes,Logistic Regression,SVM and Random forest).
 
----Work in progress---
+
